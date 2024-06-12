@@ -8,9 +8,8 @@ Before running the program, please ensure you follow these instructions:
 
 1. **Use Google Colab**: This program should be run only in Google Colab.
   
-2. **Run the Program**: After downloading the input file, run the `simple_Recommended_System.py` program to generate recommendations.
-
-3. **Provide Input File**: The program requires a file as input. You can use the provided input file named `groceryitems.csv` in this folder. Ensure you download this file and provide it as input when running the program.
+2. **Run the Program**: After downloading the input file, run the `Iris_Flower_Classification.py` program to generate recommendations.
+3. **Provide Input File**: The program requires a file as input. You can use the provided input file named `IRIS.csv` in this folder. Ensure you download this file and provide it as input when running the program.
 
 4. **View Outputs**: After successful execution of the program, you will see a list of data regarding the flowers based on the input data.
 

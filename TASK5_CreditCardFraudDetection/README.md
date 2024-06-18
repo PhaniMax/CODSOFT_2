@@ -1,59 +1,67 @@
-Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
-This folder contains the code for the Credit Card Fraud Detection project developed as part of the Codsoft internship program.
+This repository contains the code for the Credit Card Fraud Detection project developed as part of the Codsoft internship program.
 
-Instructions
+## Instructions
+
 Before running the program, please ensure you follow these instructions:
 
-Use Google Colab: This program should be run in Google Colab.
+### Use Google Colab
 
-Download the Dataset: The dataset is publicly available on Kaggle. Follow the steps below to download the dataset and upload it to your Google Drive.
+This program is designed to be run in Google Colab.
 
-Upload Dataset to Google Drive: Once downloaded, upload the creditcard.csv file to a folder in your Google Drive.
+### Download the Dataset
 
-Run the Program:
+The dataset is publicly available on Kaggle. Follow the steps below to download the dataset and upload it to your Google Drive.
 
-After uploading the dataset to Google Drive, open Google Colab.
-Create a new notebook or use an existing one.
-Upload the CreditCardFraud.py script to your Google Colab environment.
-Run the CreditCardFraud.py script in Google Colab to execute the fraud detection model.
-Download Dataset
-To download the dataset, follow these steps:
+### Upload Dataset to Google Drive
 
-Go to the following link:
+Once downloaded, upload the `creditcard.csv` file to a folder in your Google Drive.
 
-Credit Card Fraud Detection Dataset
-Download the creditcard.csv file from Kaggle.
+## Run the Program
 
-Upload Dataset to Google Drive
-After downloading the dataset, follow these steps to upload it to Google Drive:
+### Step-by-Step Instructions:
 
-Open Google Drive:
+1. **Download the Dataset:**
 
-Go to Google Drive in your web browser.
-Create a Folder (Optional):
+   To download the dataset, follow these steps:
 
-You can create a new folder in Google Drive to organize your files. Right-click in Google Drive and select "New folder". Name it something like CreditCardFraud.
-Upload Your File:
+   - Go to the following link: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+   - Download the `creditcard.csv` file from Kaggle.
 
-Click on the "New" button on the left side of the Google Drive interface.
-Select "File upload" from the dropdown menu.
-Navigate to the location of your downloaded creditcard.csv file on your local machine and select it to upload.
-Move the uploaded file into the CreditCardFraud folder if you created one.
-Running the Program
-Open Google Colab:
+2. **Upload Dataset to Google Drive:**
 
-Go to Google Colab in your web browser.
-Upload CreditCardFraud.py:
+   After downloading the dataset, follow these steps to upload it to Google Drive:
 
-Upload the CreditCardFraud.py script to your Google Colab environment.
-Run CreditCardFraud.py:
+   - Open Google Drive:
+     - Go to Google Drive in your web browser.
+   - Create a Folder (Optional):
+     - You can create a new folder in Google Drive to organize your files. Right-click in Google Drive and select "New folder". Name it something like `CreditCardFraud`.
+   - Upload Your File:
+     - Click on the "New" button on the left side of the Google Drive interface.
+     - Select "File upload" from the dropdown menu.
+     - Navigate to the location of your downloaded `creditcard.csv` file on your local machine and select it to upload.
+     - Move the uploaded file into the `CreditCardFraud` folder if you created one.
 
-Execute the CreditCardFraud.py script in Google Colab to train and evaluate the logistic regression model for fraud detection.
-View Classification
-After successful execution of the program, you will see:
+3. **Running the Program:**
 
-The results of the fraud detection model based on the uploaded dataset.
-Note
+   - Open Google Colab:
+     - Go to Google Colab in your web browser.
+   - Upload `CreditCardFraud.py`:
+     - Upload the `CreditCardFraud.py` script to your Google Colab environment.
+   - Run `CreditCardFraud.py`:
+     - Execute the `CreditCardFraud.py` script in Google Colab to train and evaluate the logistic regression model for fraud detection.
+
+4. **View Classification:**
+
+   After successful execution of the program, you will see:
+
+   - The results of the fraud detection model based on the uploaded dataset.
+
+## Note
+
 Please note that this program is designed to run in Google Colab. Make sure you have a stable internet connection and sufficient resources to run the program successfully.
-](https://github.com/TrinadhKatlgunta/CODSOFT2.git)
+
+## Repository Link
+
+[CODSOFT_2](https://github.com/PhaniMax/CODSOFT_2.git)
